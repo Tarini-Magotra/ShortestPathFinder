@@ -1,0 +1,19 @@
+.grid {
+    margin: 100px 0 150px;
+  }
+  
+.visualize-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .visualize-button:hover {
+    background-color: #45a049;
+  }
+  
