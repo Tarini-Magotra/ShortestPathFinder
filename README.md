@@ -1,4 +1,4 @@
-Here's a rephrased version in points:
+This is a shortest path finder.
 
 The shortest path finder employs a grid-based structure.
 Source and target are predefined points on this grid.
