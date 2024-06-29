@@ -1,3 +1,15 @@
+Here's a rephrased version in points:
+
+The shortest path finder employs a grid-based structure.
+Source and target are predefined points on this grid.
+It facilitates the computation of the most efficient shortest path between these points.
+The application integrates modified Dijkstra's algorithm to calculate paths.
+Users can create barriers (walls) on the grid to influence pathfinding.
+Shift key combined with cursor placement defines traffic nodes, where each node covers an area equivalent to five normal nodes.
+Implemented using React for frontend, JavaScript for logic, and CSS for styling.
+Incorporates principles from graph theory and utilizes backtracking techniques for path optimization.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
